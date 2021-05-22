@@ -4,7 +4,6 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
-
 <!--
 **prateekkukreja/prateekkukreja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
