@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 . This is Prateek's GitHub page.
+![](https://komarev.com/ghpvc/?username=prateekkukreja&color=green&style=flat-square&label=PROFILE+VIEWS)
+
+
 
 <!--
 **prateekkukreja/prateekkukreja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
